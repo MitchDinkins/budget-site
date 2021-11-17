@@ -1,3 +1,8 @@
+# Budget Site Workup
+Welcome to my attempt to learn React! I'm excited to see if I can replicate my personal method of bill and budget tracking as an app instead of a spreadsheet.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
